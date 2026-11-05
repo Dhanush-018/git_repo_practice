@@ -1,1 +1,1 @@
-"This is just for prcticeing"
+"This is just for practiceing"
